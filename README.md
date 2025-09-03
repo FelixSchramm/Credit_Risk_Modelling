@@ -1,4 +1,7 @@
-# Credit_Risk_Modelling/
+# Credit_Risk_Modelling
+
+```
+Folder Structure/
 │
 ├── .gitignore
 ├── README.md
@@ -20,3 +23,4 @@
 │
 └── 04_models/
     └── random_forest_v1.joblib
+```
