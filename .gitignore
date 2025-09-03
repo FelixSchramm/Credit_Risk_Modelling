@@ -1,0 +1,12 @@
+
+
+# Python cache and virtual environment
+__pycache__/
+*.pyc
+venv/
+
+# Data files - keep raw data out of version control
+02_data/raw/
+
+# Trained models - can be large and should not be tracked
+04_models/
