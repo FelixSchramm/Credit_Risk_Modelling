@@ -43,6 +43,8 @@ The dataset consists of over **2.2 million loan records with 151 features**, inc
 - The workflow provides a robust baseline for credit risk prediction and can be extended with more advanced models (e.g., XGBoost, deep learning).  
 
 
+## Folder Structure
+
 ```
 Folder Structure/
 │
